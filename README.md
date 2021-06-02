@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Golang and kubernetes, I am a rookie.
+📫 How to reach me: wxh170607@163.com
+
 <!--
 **wxharry/wxharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
