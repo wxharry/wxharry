@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Golang and kubernetes. I am a rookie.
+🌱 I’m currently learning Golang and kubernetes.
 
-📫 How to reach me: wxh170607@163.com
+🎓 I'm a graduate student in NYU.
+
+📫 How to reach me: wxh170607@163.com/xiaohanwu12@gmail.com
 
 <!--
 **wxharry/wxharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
