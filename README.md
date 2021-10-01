@@ -4,7 +4,7 @@
 
 🎓 I'm a graduate student in NYU.
 
-📫 How to reach me: wxh170607@163.com / xiaohanwu12@gmail.com
+📫 How to reach me: xiaohanwu12@gmail.com
 
 <!--
 **wxharry/wxharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
