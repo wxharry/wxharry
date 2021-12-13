@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Golang and kubernetes.
 
-🎓 I'm a graduate student in NYU.
+🎓 I'm a graduate student at NYU.
 
 📫 How to reach me: xiaohanwu12@gmail.com
 
