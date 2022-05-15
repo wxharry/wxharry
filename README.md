@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Golang and kubernetes.
+🌱 I'm currently learning Git.
 
-🎓 I'm a graduate student at NYU.
+🎓 I'm a graduate student at NYU Courant.
+
+👯 I'm looking to collaborate on any awesome ideas.
 
 📫 How to reach me: xiaohanwu12@gmail.com
+
+🕛 I live in the Eastern Time Zone (EST: UTC-5)
 
 <!--
 **wxharry/wxharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
