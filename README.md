@@ -2,6 +2,8 @@
 
 🌱 I'm currently learning Git.
 
+🔭 I’m currently working at Silicon Labs, DevOps Team.
+
 🎓 I'm a graduate student at NYU Courant.
 
 👯 I'm looking to collaborate on any awesome ideas.
