@@ -2,7 +2,7 @@
 
 🌱 I'm currently learning Git.
 
-🔭 I’m currently working at Silicon Labs, DevOps Team.
+🔭 I’m currently hunting jobs in North America and China.
 
 🎓 I'm a graduate student at NYU Courant.
 
