@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm currently learning Git.
+🌱 I'm currently learning Git and UI/UX
 
 🔭 I’m currently hunting jobs in North America and China.
 
