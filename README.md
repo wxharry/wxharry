@@ -8,7 +8,7 @@
 
 👯 I'm looking to collaborate on any awesome ideas.
 
-📫 How to reach me: xiaohanwu12@gmail.com
+📫 How to reach me: wxharry124@gmail.com
 
 🕛 I live in the Eastern Time Zone (EST: UTC-5)
 
