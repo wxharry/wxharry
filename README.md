@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-🌱 I'm currently learning Git and UI/UX
+🌱 I'm currently working on .NET and React
 
-🔭 I’m currently hunting jobs in North America and China.
+🔭 I’m currently seeking for opportunities in North America and China.
 
-🎓 I'm a graduate student at NYU Courant.
+🎓 I'm a graduate student of NYU Courant.
 
-👯 I'm looking to collaborate on any awesome ideas.
+👯 I'm working on some awesome ideas and would love you to join us.
 
-📫 How to reach me: wxharry124@gmail.com
+📫 Feel free to reach me at wxharry124@gmail.com
 
 🕛 I live in the Eastern Time Zone (EST: UTC-5)
 
