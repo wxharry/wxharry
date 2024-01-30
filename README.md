@@ -2,7 +2,7 @@
 
 🌱 I'm currently working on .NET and React
 
-🔭 I’m currently seeking for opportunities in North America and China.
+🔭 I’m currently seeking opportunities in North America and China.
 
 🎓 I'm a graduate student of NYU Courant.
 
