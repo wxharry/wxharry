@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm currently working on .NET and TypeScript.
+🌱 I'm currently working on Laravel.
 
 👯 I am happy to work on any awesome ideas.
 
